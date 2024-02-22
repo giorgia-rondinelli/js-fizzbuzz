@@ -1,0 +1,42 @@
+.tre{
+  background-color: rgb(100, 245, 95);
+  font-size: 1.3rem ;
+  color: white;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.cinque{
+  background-color: rgb(215, 218, 35);
+  font-size: 1.3rem ;
+  color: white;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.both{
+  background-color: rgb(176, 22, 181);
+ 
+  color: white;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+.numeri{
+  background-color: rgb(22, 163, 181);
+  font-size: 1.3rem;
+  color: white;
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
